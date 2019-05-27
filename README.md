@@ -5,3 +5,10 @@ Unreal Engine project.
 ## Adding a new Unreal project to this project
 1) Move your unreal project into this repository. 
 2) Prior to upload, copy the '.gitignore' file in the 'TestProject' into the your new Unreal Project.
+
+## Journal
+- 2019.05.21 Created repository, added initial base project, added .gitignore for Unreal Projects
+- 2019.05.26 Added Initial block out of Pritchard's First Floor
+
+## References
+
