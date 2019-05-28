@@ -1,7 +1,7 @@
 # Unreal-Virginia-Tech
 Unreal Engine project. 
 - [How to use GitHub Training](https://docs.google.com/presentation/d/1ucC6p7QOM7wmoIdBJhs1mHnz4R2gZBaIkAMVmGeYpfc/edit#slide=id.p) 
-- [2019.05.25 Sub-Teams & Resources](https://docs.google.com/document/d/1PrTLaBFsfSzRGOY6iPN4p8MLBQRYS2CQya-JZ6CoFjk/edit)
+- [Sub-Teams & Resources](https://docs.google.com/document/d/1PrTLaBFsfSzRGOY6iPN4p8MLBQRYS2CQya-JZ6CoFjk/edit)
 
 ## Adding a new Unreal project to this project
 1) Move your unreal project into this repository. 
