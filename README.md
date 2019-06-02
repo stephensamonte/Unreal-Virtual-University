@@ -3,6 +3,9 @@ Unreal Engine project.
 - [How to use GitHub Training](https://docs.google.com/presentation/d/1ucC6p7QOM7wmoIdBJhs1mHnz4R2gZBaIkAMVmGeYpfc/edit#slide=id.p) 
 - [Sub-Teams & Resources](https://docs.google.com/document/d/1PrTLaBFsfSzRGOY6iPN4p8MLBQRYS2CQya-JZ6CoFjk/edit)
 
+# Project Style Guide: 
+- https://github.com/Allar/ue4-style-guide
+
 ## Adding a new Unreal project to this project
 1) Move your unreal project into this repository. 
 2) Prior to upload, copy the '.gitignore' file in the 'TestProject' into the your new Unreal Project.
