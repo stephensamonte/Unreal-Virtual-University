@@ -3,8 +3,10 @@ Unreal Engine project.
 - [How to use GitHub Training](https://docs.google.com/presentation/d/1ucC6p7QOM7wmoIdBJhs1mHnz4R2gZBaIkAMVmGeYpfc/edit#slide=id.p) 
 - [Sub-Teams & Resources](https://docs.google.com/document/d/1PrTLaBFsfSzRGOY6iPN4p8MLBQRYS2CQya-JZ6CoFjk/edit)
 
-# Project Style Guide: 
+## Project Style Guide: 
 - [Project Structure Style Guide](https://github.com/stephensamonte/ue4-style-guide)
+
+## Tools
 - [GitHub LFS Download](https://git-lfs.github.com/)
 
 ## Adding a new Unreal project to this project
