@@ -17,4 +17,5 @@ Unreal Engine project.
 ## References
 - [Unreal Video Game Development Team Google Drive](https://drive.google.com/drive/u/0/folders/1m4OXvMCCb2wTcy4Ulu6xz64hy1G2Joqy)
 - [Unreal View Port Contorls Tutorial Video](https://www.youtube.com/watch?v=j2CKS6G3G2k)
+- [Commercial Game Deployment Guidelines](https://www.unrealengine.com/en-US/release)
 
