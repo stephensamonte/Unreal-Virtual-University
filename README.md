@@ -5,6 +5,7 @@ Unreal Engine project.
 
 # Project Style Guide: 
 - https://github.com/Allar/ue4-style-guide
+- [GitHub LFS Download](https://git-lfs.github.com/)
 
 ## Adding a new Unreal project to this project
 1) Move your unreal project into this repository. 
