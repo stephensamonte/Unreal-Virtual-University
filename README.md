@@ -4,7 +4,8 @@ Unreal Engine project.
 - [Sub-Teams & Resources](https://docs.google.com/document/d/1PrTLaBFsfSzRGOY6iPN4p8MLBQRYS2CQya-JZ6CoFjk/edit)
 
 # Project Style Guide: 
-- https://github.com/Allar/ue4-style-guide
+- [Project Structure Style Guide](https://github.com/stephensamonte/ue4-style-guide)
+- [GitHub LFS Download](https://git-lfs.github.com/)
 
 ## Adding a new Unreal project to this project
 1) Move your unreal project into this repository. 
