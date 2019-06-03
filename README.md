@@ -3,6 +3,9 @@ Unreal Engine project.
 - [How to use GitHub Training](https://docs.google.com/presentation/d/1ucC6p7QOM7wmoIdBJhs1mHnz4R2gZBaIkAMVmGeYpfc/edit#slide=id.p) 
 - [Sub-Teams & Resources](https://docs.google.com/document/d/1PrTLaBFsfSzRGOY6iPN4p8MLBQRYS2CQya-JZ6CoFjk/edit)
 
+## Latest Showcase Video: 
+[![Latest Showcase](https://img.youtube.com/vi/YzsnV0vsLko/0.jpg)](https://www.youtube.com/watch?v=YzsnV0vsLko)
+
 ## Project Style Guide: 
 - [Project Structure Style Guide](https://github.com/stephensamonte/ue4-style-guide)
 
@@ -14,8 +17,8 @@ Unreal Engine project.
 2) Prior to upload, copy the '.gitignore' file in the 'TestProject' into the your new Unreal Project.
 
 ## Journal
-- 2019.05.21 Created repository, added initial base project, added .gitignore for Unreal Projects
-- 2019.05.26 Added Initial block out of Pritchard's First Floor
+- 2019.05.21 Created repository, added initial base project, added .gitignore for Unreal Projects [Showcase](https://www.youtube.com/watch?v=-L5TGadxr0c)
+- 2019.05.26 Added Initial block out of Pritchard's First Floor [Showcase](https://www.youtube.com/watch?v=YzsnV0vsLko)
 
 ## References
 - [Unreal Video Game Development Team Google Drive](https://drive.google.com/drive/u/0/folders/1m4OXvMCCb2wTcy4Ulu6xz64hy1G2Joqy)
