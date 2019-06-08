@@ -20,6 +20,9 @@ Unreal Engine project.
 ## Journal
 - 2019.05.21 Created repository, added initial base project, added .gitignore for Unreal Projects [Showcase](https://www.youtube.com/watch?v=-L5TGadxr0c)
 - 2019.05.26 Added Initial block out of Pritchard's First Floor [Showcase](https://www.youtube.com/watch?v=YzsnV0vsLko)
+- 2019.06.06 Imported Phase Character from Unreal marketplace
+- 2019.06.08 Added Git Large File Storage for large files [Showcase](https://www.youtube.com/watch?v=u5w-tVJ-n8k&feature=youtu.be)
+- 2019.06.08 Imported Glass Material form Unreal marketplace
 
 ## Unreal Engine Youtube Tutorial Playlists: 
 - [C++ 3rd Person Battery Collector Power Up Game | v4.9 | Unreal Engine](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYup-gvJtMsgJqnEB_dGiM4)
