@@ -10,8 +10,7 @@ Unreal Engine project.
 ## Project Style Guide: 
 - [Project Structure Style Guide](https://github.com/stephensamonte/ue4-style-guide)
 
-## Tools
-- [GitHub LFS Download](https://git-lfs.github.com/)
+
 
 ## Adding a new Unreal project to this project
 1) Move your unreal project into this repository. 
@@ -23,6 +22,9 @@ Unreal Engine project.
 - 2019.06.06 Imported Phase Character from Unreal marketplace
 - 2019.06.08 Added Git Large File Storage for large files [Showcase](https://www.youtube.com/watch?v=u5w-tVJ-n8k&feature=youtu.be)
 - 2019.06.08 Imported Glass Material form Unreal marketplace
+
+## Unreal Engine Academy: 
+- [Unreal Engine | Academy](https://www.unrealengine.com/en-US/academy)
 
 ## Unreal Engine Youtube Tutorial Playlists: 
 - [C++ 3rd Person Battery Collector Power Up Game | v4.9 | Unreal Engine](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYup-gvJtMsgJqnEB_dGiM4)
@@ -43,7 +45,10 @@ Unreal Engine project.
 - [Creating Games For Beginners Using UE4 - Unreal Engine 4 Course](https://www.youtube.com/playlist?list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC)
 - [Creating Gameplay Mechanics With Blueprints - Unreal Engine 4 Course](https://www.youtube.com/playlist?list=PLL0cLF8gjBpoojQ7YqsSsxycBe5S3ikkV)
 - [Game Development | Devslopes](https://www.youtube.com/playlist?list=PLpZBns8dFbgyk7JbJqDErIxVQvOIc7iOs)
-- 
+
+## Git Tools
+- [GitHub LFS Download](https://git-lfs.github.com/)
+- [GitHub Desktop](https://desktop.github.com)
 
 ## References
 - [Unreal View Port Contorls Tutorial Video](https://www.youtube.com/watch?v=j2CKS6G3G2k)
