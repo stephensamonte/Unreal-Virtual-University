@@ -22,6 +22,7 @@ Unreal Engine project.
 - 2019.06.06 Imported Phase Character from Unreal marketplace
 - 2019.06.08 Added Git Large File Storage for large files [Showcase](https://www.youtube.com/watch?v=u5w-tVJ-n8k&feature=youtu.be)
 - 2019.06.08 Imported Glass Material form Unreal marketplace
+- 2019.06.10 Imported Pritchard Hall Room 1051 from Google Sketchup, removed Git Large File Storage tracking on .umap files [Showcase](https://www.youtube.com/watch?v=9hk6NwY2h1E)
 
 ## Unreal Engine Academy: 
 - [Unreal Engine | Academy](https://www.unrealengine.com/en-US/academy)
