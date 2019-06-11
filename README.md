@@ -10,8 +10,7 @@ Unreal Engine project.
 ## Project Style Guide: 
 - [Project Structure Style Guide](https://github.com/stephensamonte/ue4-style-guide)
 
-## Tools
-- [GitHub LFS Download](https://git-lfs.github.com/)
+
 
 ## Adding a new Unreal project to this project
 1) Move your unreal project into this repository. 
@@ -20,6 +19,13 @@ Unreal Engine project.
 ## Journal
 - 2019.05.21 Created repository, added initial base project, added .gitignore for Unreal Projects [Showcase](https://www.youtube.com/watch?v=-L5TGadxr0c)
 - 2019.05.26 Added Initial block out of Pritchard's First Floor [Showcase](https://www.youtube.com/watch?v=YzsnV0vsLko)
+- 2019.06.06 Imported Phase Character from Unreal marketplace
+- 2019.06.08 Added Git Large File Storage for large files [Showcase](https://www.youtube.com/watch?v=u5w-tVJ-n8k&feature=youtu.be)
+- 2019.06.08 Imported Glass Material form Unreal marketplace
+- 2019.06.10 Imported Pritchard Hall Room 1051 from Google Sketchup, removed Git Large File Storage tracking on .umap files [Showcase](https://www.youtube.com/watch?v=9hk6NwY2h1E)
+
+## Unreal Engine Academy: 
+- [Unreal Engine | Academy](https://www.unrealengine.com/en-US/academy)
 
 ## Unreal Engine Youtube Tutorial Playlists: 
 - [C++ 3rd Person Battery Collector Power Up Game | v4.9 | Unreal Engine](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYup-gvJtMsgJqnEB_dGiM4)
@@ -40,7 +46,10 @@ Unreal Engine project.
 - [Creating Games For Beginners Using UE4 - Unreal Engine 4 Course](https://www.youtube.com/playlist?list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC)
 - [Creating Gameplay Mechanics With Blueprints - Unreal Engine 4 Course](https://www.youtube.com/playlist?list=PLL0cLF8gjBpoojQ7YqsSsxycBe5S3ikkV)
 - [Game Development | Devslopes](https://www.youtube.com/playlist?list=PLpZBns8dFbgyk7JbJqDErIxVQvOIc7iOs)
-- 
+
+## Git Tools
+- [GitHub LFS Download](https://git-lfs.github.com/)
+- [GitHub Desktop](https://desktop.github.com)
 
 ## References
 - [Unreal View Port Contorls Tutorial Video](https://www.youtube.com/watch?v=j2CKS6G3G2k)
