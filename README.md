@@ -1,6 +1,8 @@
 # Unreal-Virginia-Tech
 
-Unreal Engine project.
+This project is not actively worked on but updates to this project is appreciated. 
+
+The purpose of this project was for us to learn how to use Unreal Engine to be able to work on much larger projects in the future. The idea was to make components of a game taking place at the team could relate to. 
 
 - [How to use GitHub Training](https://docs.google.com/presentation/d/1ucC6p7QOM7wmoIdBJhs1mHnz4R2gZBaIkAMVmGeYpfc/edit#slide=id.p) 
 - [Sub-Teams & Resources](https://docs.google.com/document/d/1PrTLaBFsfSzRGOY6iPN4p8MLBQRYS2CQya-JZ6CoFjk/edit)
