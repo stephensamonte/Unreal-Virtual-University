@@ -31,6 +31,7 @@ The purpose of this project was for us to learn how to use Unreal Engine to be a
 - 2019.06.10 Imported Pritchard Hall Room 1051 from Google Sketchup, removed Git Large File Storage tracking on .umap files [Showcase](https://www.youtube.com/watch?v=9hk6NwY2h1E)
 - TODO: Add menu progress: 
 - 2019.08.02 Teleportation Pads [Showcase](https://www.youtube.com/watch?time_continue=15&v=SYe6l3HMGJc)
+- 2020.03.16 Updated to new Unreal Engine & Renamed project to VirtualUniversity
 
 ## Unreal Engine Academy
 
