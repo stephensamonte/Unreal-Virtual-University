@@ -10,7 +10,7 @@ The purpose of this project was for us to learn how to use Unreal Engine to be a
 
 ## Latest Showcase Video
 
-[![Latest Showcase](https://img.youtube.com/vi/YzsnV0vsLko/0.jpg)](https://www.youtube.com/watch?v=YzsnV0vsLko)
+[![Latest Showcase](https://img.youtube.com/vi/g39SJmFOhzk/0.jpg)](https://www.youtube.com/watch?v=g39SJmFOhzk)
 
 ## Project Style Guide
 
@@ -83,3 +83,8 @@ When you are running the game, there are a multitude of console commands you can
 
 - [Unreal Engine Docs](https://docs.unrealengine.com/en-US/index.html)
 - [Online Subsystem Steam Documentation](https://docs.unrealengine.com/en-US/Programming/Online/Steam/index.html)
+
+## Main Tutorials
+
+- [Blueprint Multiplayer | v4.11 | Unreal Engine playlist](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) Used as a base for start menu and online multiplayer
+- [Unreal Engine 4 Teleporter by 4music2junkie0](https://www.youtube.com/watch?v=Vi368gF_Rj4) Used for teleportation system
