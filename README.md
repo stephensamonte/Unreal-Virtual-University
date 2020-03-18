@@ -32,6 +32,18 @@ The purpose of this project was for us to learn how to use Unreal Engine to be a
 - TODO: Add menu progress: 
 - 2019.08.02 Teleportation Pads [Showcase](https://www.youtube.com/watch?time_continue=15&v=SYe6l3HMGJc)
 - 2020.03.16 Updated to new Unreal Engine & Renamed project to VirtualUniversity
+- 2020.03.18 Added SteamOnlineSubsystem plugin [Showcase](https://www.youtube.com/watch?v=g39SJmFOhzk)
+
+## Unreal Engine Shortcuts
+
+[Useful In-Game Commands](https://docs.unrealengine.com/en-US/GettingStarted/RunningUnrealEngine/index.html)
+When you are running the game, there are a multitude of console commands you can use in the console inside the game. The console can be summoned by pressing the ~ (tilde) or Tab keys. Some of the most useful commands are listed below.
+
+- EXIT/QUIT
+- DISCONNECT
+- OPEN [MapURL]
+- TRAVEL [MapURL]
+- VIEWMODE [Mode]
 
 ## Unreal Engine Academy
 
