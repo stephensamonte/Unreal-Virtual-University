@@ -37,7 +37,7 @@ The purpose of this project was for us to learn how to use Unreal Engine to be a
 - 2019.08.02 Teleportation Pads [Showcase](https://www.youtube.com/watch?time_continue=15&v=SYe6l3HMGJc)
 - 2020.03.16 Updated to new Unreal Engine & Renamed project to VirtualUniversity
 - 2020.03.18 Added SteamOnlineSubsystem plugin, Find a Match Graph | 11 completed, Options Graph | 09 completed [Showcase](https://www.youtube.com/watch?v=g39SJmFOhzk)
-- 2020.03.20 Lobby Menu Graph | 14, Lobby Menu Design | 13, Lobby Player Controller | 12
+- 2020.03.20 Blueprint Multiplayer: Player Card Setup | 16, Blueprint Multiplayer: Lobby Game Mode | 15, Lobby Menu Graph | 14, Lobby Menu Design | 13, Lobby Player Controller | 12
 
 ## Unreal Engine Shortcuts
 
