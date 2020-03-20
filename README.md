@@ -29,7 +29,11 @@ The purpose of this project was for us to learn how to use Unreal Engine to be a
 - 2019.06.08 Added Git Large File Storage for large files [Showcase](https://www.youtube.com/watch?v=u5w-tVJ-n8k&feature=youtu.be)
 - 2019.06.08 Imported Glass Material form Unreal marketplace
 - 2019.06.10 Imported Pritchard Hall Room 1051 from Google Sketchup, removed Git Large File Storage tracking on .umap files [Showcase](https://www.youtube.com/watch?v=9hk6NwY2h1E)
-- TODO: Add menu progress: 
+- 2019.06.17 Created Game Info Instance, Created Info Class to track user player information and created game, Created thumbnails for players and Maps
+- 2019.06.29 Main Menu work in progress
+- 2019.07.02 Completed Main Menu UI blueprint
+- 2019.07.29 Blueprint Multiplayer: Find a Match Design | 10, Blueprint Multiplayer: Options Graph | 09, Options Menu Design, Host Menu Graph, Host Menu Design
+- 2019.07.29 Menus & Menu Logic
 - 2019.08.02 Teleportation Pads [Showcase](https://www.youtube.com/watch?time_continue=15&v=SYe6l3HMGJc)
 - 2020.03.16 Updated to new Unreal Engine & Renamed project to VirtualUniversity
 - 2020.03.18 Added SteamOnlineSubsystem plugin [Showcase](https://www.youtube.com/watch?v=g39SJmFOhzk)
